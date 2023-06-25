@@ -36,6 +36,6 @@ def find_path(victim: Plot, chaser: Plot):
 if __name__ == "__main__":
     a = Plot(0, 0, 5)
     p = Plot(1, 0, 5)
-    plt.axis([-1, p.x, 0, 10])
+    plt.axis([0, p.x, 0, 10])
     find_path(a, p)
     plt.show()
