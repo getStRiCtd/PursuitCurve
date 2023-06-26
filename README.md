@@ -8,7 +8,7 @@ Math proof is given below
 ## Problem 
 For example, we have a chicken that can only run in a straight line.
 <br>
-Also, we have a bit clever fox, that always pursuit that poor chicken and not like its victim can run in a curve.
+Also, we have a slighty smarter fox who is always this poor chicken and unlike its prey can run in a curve.
 <br>
 Lets imagine they both start at the same-y-coord position but with different x coords. Chicken path is OY axis and found fox's shortest path to chicken is our goal.
 <br>
